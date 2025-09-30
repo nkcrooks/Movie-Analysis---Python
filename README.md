@@ -1,5 +1,15 @@
 # Movie-Analysis---Python
 
+**Project Overview**
+**Aim**
+
+**Skills Practised**
+
+### How to run
+
+### Dataset
+** Dataset Link **
+
 The purpose of this project was to learn python and display my skills. I'll continue to add to and expand the scope for as long as I find the dataset has more to teach. I plan to add a section on modelling and one graph made with Geopandas.
 
 ## Limitations
