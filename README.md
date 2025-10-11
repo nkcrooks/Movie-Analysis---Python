@@ -10,19 +10,19 @@ Use modular Python scripts to cut down on repeated code
 **Aim:**
 > To explore personal movie preferences and compare them with IMDb community ratings, using descriptive analysis and visualisation.
 
-**Questions:**
-> Personal vs IMDb   
->> Do I usually rate movies higher, lower, or in line with IMDb?   
->> Which movies are the biggest disagreements (outliers)?   
-> Genres & Patterns   
->> Which genres do I watch most often?   
->> Which genres do I rate higher than IMDb, and which do I underrate?   
-> Time & Trends   
->> How has my movie-watching changed by year/decade of release?   
->> Am I watching more new releases or older classics?   
-> People & Countries   
->> Which directors/actors do I consistently rate highly?   
->> Which countries/languages dominate my watchlist?   
+**Questions:**   
+Me vs IMDb   
+-> Do I usually rate movies higher, lower, or in line with IMDb?   
+-> Which movies are the biggest disagreements (outliers)?   
+Genres & Patterns   
+-> Which genres do I watch most often?   
+-> Which genres do I rate higher than IMDb, and which do I underrate?   
+Time & Trends   
+-> How has my movie-watching changed by year/decade of release?   
+-> Am I watching more new releases or older classics?   
+People & Countries   
+-> Which directors/actors do I consistently rate highly?   
+-> Which countries/languages dominate my watchlist?   
 
 
 **Skills Practised**
