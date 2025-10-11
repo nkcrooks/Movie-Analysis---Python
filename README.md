@@ -1,6 +1,12 @@
 # Movie-Analysis---Python
 
 **Project Overview**
+The purpose of this project was to learn Python and display my skills. I'll continue to add to and expand the scope for as long as I find the dataset has more to teach. I plan to add a section on modelling and one graph made with Geopandas.
+
+### Next Steps
+Use more advanced analysis, like machine learning
+Use modular Python scripts to cut down on repeated code
+
 **Aim:**
 > To explore personal movie preferences and compare them with IMDb community ratings, using descriptive analysis and visualisation.
 
@@ -23,10 +29,7 @@
 
 ### How to run
 
-### Dataset
-** Dataset Link **
-
-The purpose of this project was to learn python and display my skills. I'll continue to add to and expand the scope for as long as I find the dataset has more to teach. I plan to add a section on modelling and one graph made with Geopandas.
+**Repo Structure**
 
 ## Limitations
-I want to learn to use Plotly so I can recreate some of the graphs here. Many times I saw outliers and thought it'd be intersting to see that data point but I can't easily do that with Seaborn. 
+I want to learn to use Plotly so I can recreate some of the graphs here. Many times, I've seen outliers and thought it'd be interesting to examine that data point, but I couldn't easily do that with Seaborn. 
