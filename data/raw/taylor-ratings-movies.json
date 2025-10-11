@@ -1,0 +1,2042 @@
+[
+  {
+    "rated_at": "2025-06-03T21:31:16.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "The Favourite",
+      "year": 2018,
+      "ids": {
+        "trakt": 242258,
+        "slug": "the-favourite-2018",
+        "imdb": "tt5083738",
+        "tmdb": 375262
+      }
+    }
+  },
+  {
+    "rated_at": "2025-06-01T15:40:58.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Crazy, Stupid, Love.",
+      "year": 2011,
+      "ids": {
+        "trakt": 35436,
+        "slug": "crazy-stupid-love-2011",
+        "imdb": "tt1570728",
+        "tmdb": 50646
+      }
+    }
+  },
+  {
+    "rated_at": "2025-06-01T12:37:36.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Lilo & Stitch",
+      "year": 2002,
+      "ids": {
+        "trakt": 6625,
+        "slug": "lilo-stitch-2002",
+        "imdb": "tt0275847",
+        "tmdb": 11544
+      }
+    }
+  },
+  {
+    "rated_at": "2025-05-17T21:03:04.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "Death of a Unicorn",
+      "year": 2025,
+      "ids": {
+        "trakt": 929147,
+        "slug": "death-of-a-unicorn-2025",
+        "imdb": "tt28443655",
+        "tmdb": 1153714
+      }
+    }
+  },
+  {
+    "rated_at": "2025-04-19T00:06:41.000Z",
+    "rating": 9,
+    "type": "movie",
+    "movie": {
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "ids": {
+        "trakt": 537449,
+        "slug": "dune-part-two-2024",
+        "imdb": "tt15239678",
+        "tmdb": 693134
+      }
+    }
+  },
+  {
+    "rated_at": "2025-04-19T00:06:29.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Dune",
+      "year": 2021,
+      "ids": {
+        "trakt": 287071,
+        "slug": "dune-2021",
+        "imdb": "tt1160419",
+        "tmdb": 438631
+      }
+    }
+  },
+  {
+    "rated_at": "2025-04-18T22:20:16.000Z",
+    "rating": 10,
+    "type": "movie",
+    "movie": {
+      "title": "Sinners",
+      "year": 2025,
+      "ids": {
+        "trakt": 997581,
+        "slug": "sinners-2025",
+        "imdb": "tt31193180",
+        "tmdb": 1233413
+      }
+    }
+  },
+  {
+    "rated_at": "2025-02-24T21:37:45.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Predestination",
+      "year": 2014,
+      "ids": {
+        "trakt": 128287,
+        "slug": "predestination-2014",
+        "imdb": "tt2397535",
+        "tmdb": 206487
+      }
+    }
+  },
+  {
+    "rated_at": "2025-02-16T12:14:01.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Chicago",
+      "year": 2002,
+      "ids": {
+        "trakt": 1031,
+        "slug": "chicago-2002",
+        "imdb": "tt0299658",
+        "tmdb": 1574
+      }
+    }
+  },
+  {
+    "rated_at": "2025-02-13T00:39:58.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Wicked",
+      "year": 2024,
+      "ids": {
+        "trakt": 290190,
+        "slug": "wicked-2024",
+        "imdb": "tt1262426",
+        "tmdb": 402431
+      }
+    }
+  },
+  {
+    "rated_at": "2025-01-05T20:29:47.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "The Lion King",
+      "year": 2019,
+      "ids": {
+        "trakt": 265470,
+        "slug": "the-lion-king-2019",
+        "imdb": "tt6105098",
+        "tmdb": 420818
+      }
+    }
+  },
+  {
+    "rated_at": "2025-01-05T14:21:43.000Z",
+    "rating": 4,
+    "type": "movie",
+    "movie": {
+      "title": "Civil War",
+      "year": 2024,
+      "ids": {
+        "trakt": 745438,
+        "slug": "civil-war-2024",
+        "imdb": "tt17279496",
+        "tmdb": 929590
+      }
+    }
+  },
+  {
+    "rated_at": "2025-01-01T20:20:34.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Men of Honor",
+      "year": 2000,
+      "ids": {
+        "trakt": 6991,
+        "slug": "men-of-honor-2000",
+        "imdb": "tt0203019",
+        "tmdb": 11978
+      }
+    }
+  },
+  {
+    "rated_at": "2025-01-01T20:20:21.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "ids": {
+        "trakt": 329,
+        "slug": "the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-2005",
+        "imdb": "tt0363771",
+        "tmdb": 411
+      }
+    }
+  },
+  {
+    "rated_at": "2024-12-30T15:39:21.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Mary Poppins",
+      "year": 1964,
+      "ids": {
+        "trakt": 344,
+        "slug": "mary-poppins-1964",
+        "imdb": "tt0058331",
+        "tmdb": 433
+      }
+    }
+  },
+  {
+    "rated_at": "2024-12-30T14:02:45.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "The Apartment",
+      "year": 1960,
+      "ids": {
+        "trakt": 238,
+        "slug": "the-apartment-1960",
+        "imdb": "tt0053604",
+        "tmdb": 284
+      }
+    }
+  },
+  {
+    "rated_at": "2024-12-29T01:01:46.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Carry-On",
+      "year": 2024,
+      "ids": {
+        "trakt": 807959,
+        "slug": "carry-on-2024",
+        "imdb": "tt21382296",
+        "tmdb": 1005331
+      }
+    }
+  },
+  {
+    "rated_at": "2024-12-28T22:49:52.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Liar Liar",
+      "year": 1997,
+      "ids": {
+        "trakt": 1071,
+        "slug": "liar-liar-1997",
+        "imdb": "tt0119528",
+        "tmdb": 1624
+      }
+    }
+  },
+  {
+    "rated_at": "2024-12-25T23:12:54.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Red One",
+      "year": 2024,
+      "ids": {
+        "trakt": 675565,
+        "slug": "red-one-2024",
+        "imdb": "tt14948432",
+        "tmdb": 845781
+      }
+    }
+  },
+  {
+    "rated_at": "2024-12-25T19:48:09.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "The Prince of Egypt",
+      "year": 1998,
+      "ids": {
+        "trakt": 5092,
+        "slug": "the-prince-of-egypt-1998",
+        "imdb": "tt0120794",
+        "tmdb": 9837
+      }
+    }
+  },
+  {
+    "rated_at": "2024-12-22T03:22:28.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Blink Twice",
+      "year": 2024,
+      "ids": {
+        "trakt": 671355,
+        "slug": "blink-twice-2024",
+        "imdb": "tt14858658",
+        "tmdb": 840705
+      }
+    }
+  },
+  {
+    "rated_at": "2024-11-18T15:41:38.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Memento",
+      "year": 2000,
+      "ids": {
+        "trakt": 47,
+        "slug": "memento-2000",
+        "imdb": "tt0209144",
+        "tmdb": 77
+      }
+    }
+  },
+  {
+    "rated_at": "2024-10-14T09:20:23.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "The Croods",
+      "year": 2013,
+      "ids": {
+        "trakt": 34505,
+        "slug": "the-croods-2013",
+        "imdb": "tt0481499",
+        "tmdb": 49519
+      }
+    }
+  },
+  {
+    "rated_at": "2024-09-29T18:16:35.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Prometheus",
+      "year": 2012,
+      "ids": {
+        "trakt": 52036,
+        "slug": "prometheus-2012",
+        "imdb": "tt1446714",
+        "tmdb": 70981
+      }
+    }
+  },
+  {
+    "rated_at": "2024-09-20T21:29:23.000Z",
+    "rating": 4,
+    "type": "movie",
+    "movie": {
+      "title": "A Quiet Place: Day One",
+      "year": 2024,
+      "ids": {
+        "trakt": 600962,
+        "slug": "a-quiet-place-day-one-2024",
+        "imdb": "tt13433802",
+        "tmdb": 762441
+      }
+    }
+  },
+  {
+    "rated_at": "2024-09-12T22:34:14.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "Beetlejuice",
+      "year": 1988,
+      "ids": {
+        "trakt": 2408,
+        "slug": "beetlejuice-1988",
+        "imdb": "tt0094721",
+        "tmdb": 4011
+      }
+    }
+  },
+  {
+    "rated_at": "2024-09-09T20:44:14.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "A Quiet Place Part II",
+      "year": 2021,
+      "ids": {
+        "trakt": 369071,
+        "slug": "a-quiet-place-part-ii-2021",
+        "imdb": "tt8332922",
+        "tmdb": 520763
+      }
+    }
+  },
+  {
+    "rated_at": "2024-08-22T20:32:36.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "A Quiet Place",
+      "year": 2018,
+      "ids": {
+        "trakt": 293955,
+        "slug": "a-quiet-place-2018",
+        "imdb": "tt6644200",
+        "tmdb": 447332
+      }
+    }
+  },
+  {
+    "rated_at": "2024-08-21T14:15:27.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Coraline",
+      "year": 2009,
+      "ids": {
+        "trakt": 8984,
+        "slug": "coraline-2009",
+        "imdb": "tt0327597",
+        "tmdb": 14836
+      }
+    }
+  },
+  {
+    "rated_at": "2024-08-08T22:32:02.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "Borderlands",
+      "year": 2024,
+      "ids": {
+        "trakt": 223432,
+        "slug": "borderlands-2024",
+        "imdb": "tt4978420",
+        "tmdb": 365177
+      }
+    }
+  },
+  {
+    "rated_at": "2024-07-26T09:01:36.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Deadpool & Wolverine",
+      "year": 2024,
+      "ids": {
+        "trakt": 395672,
+        "slug": "deadpool-wolverine-2024",
+        "imdb": "tt6263850",
+        "tmdb": 533535
+      }
+    }
+  },
+  {
+    "rated_at": "2024-07-11T13:45:20.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "ids": {
+        "trakt": 191797,
+        "slug": "avengers-infinity-war-2018",
+        "imdb": "tt4154756",
+        "tmdb": 299536
+      }
+    }
+  },
+  {
+    "rated_at": "2024-05-18T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Kingdom of the Planet of the Apes",
+      "year": 2024,
+      "ids": {
+        "trakt": 488280,
+        "slug": "kingdom-of-the-planet-of-the-apes-2024",
+        "imdb": "tt11389872",
+        "tmdb": 653346
+      }
+    }
+  },
+  {
+    "rated_at": "2024-05-17T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014,
+      "ids": {
+        "trakt": 83040,
+        "slug": "dawn-of-the-planet-of-the-apes-2014",
+        "imdb": "tt2103281",
+        "tmdb": 119450
+      }
+    }
+  },
+  {
+    "rated_at": "2024-05-17T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "War for the Planet of the Apes",
+      "year": 2017,
+      "ids": {
+        "trakt": 178749,
+        "slug": "war-for-the-planet-of-the-apes-2017",
+        "imdb": "tt3450958",
+        "tmdb": 281338
+      }
+    }
+  },
+  {
+    "rated_at": "2024-05-16T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Rise of the Planet of the Apes",
+      "year": 2011,
+      "ids": {
+        "trakt": 44345,
+        "slug": "rise-of-the-planet-of-the-apes-2011",
+        "imdb": "tt1318514",
+        "tmdb": 61791
+      }
+    }
+  },
+  {
+    "rated_at": "2024-04-01T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Arrival",
+      "year": 2016,
+      "ids": {
+        "trakt": 210803,
+        "slug": "arrival-2016",
+        "imdb": "tt2543164",
+        "tmdb": 329865
+      }
+    }
+  },
+  {
+    "rated_at": "2024-02-01T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Dave Chappelle: The Closer",
+      "year": 2021,
+      "ids": {
+        "trakt": 704047,
+        "slug": "dave-chappelle-the-closer-2021",
+        "imdb": "tt15523010",
+        "tmdb": 879540
+      }
+    }
+  },
+  {
+    "rated_at": "2024-01-27T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Oppenheimer",
+      "year": 2023,
+      "ids": {
+        "trakt": 698292,
+        "slug": "oppenheimer-2023",
+        "imdb": "tt15398776",
+        "tmdb": 872585
+      }
+    }
+  },
+  {
+    "rated_at": "2024-01-22T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Dave Chappelle: Sticks & Stones",
+      "year": 2019,
+      "ids": {
+        "trakt": 466464,
+        "slug": "dave-chappelle-sticks-stones-2019",
+        "imdb": "tt10810424",
+        "tmdb": 624932
+      }
+    }
+  },
+  {
+    "rated_at": "2024-01-19T00:00:00.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "The Kitchen",
+      "year": 2023,
+      "ids": {
+        "trakt": 768864,
+        "slug": "the-kitchen-2023",
+        "imdb": "tt4460800",
+        "tmdb": 956262
+      }
+    }
+  },
+  {
+    "rated_at": "2024-01-05T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Black Widow",
+      "year": 2021,
+      "ids": {
+        "trakt": 344686,
+        "slug": "black-widow-2021",
+        "imdb": "tt3480822",
+        "tmdb": 497698
+      }
+    }
+  },
+  {
+    "rated_at": "2024-01-01T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "The Raid 2",
+      "year": 2014,
+      "ids": {
+        "trakt": 113656,
+        "slug": "the-raid-2-2014",
+        "imdb": "tt2265171",
+        "tmdb": 180299
+      }
+    }
+  },
+  {
+    "rated_at": "2024-01-01T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Saltburn",
+      "year": 2023,
+      "ids": {
+        "trakt": 746293,
+        "slug": "saltburn-2023",
+        "imdb": "tt17351924",
+        "tmdb": 930564
+      }
+    }
+  },
+  {
+    "rated_at": "2023-12-31T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "The Raid",
+      "year": 2012,
+      "ids": {
+        "trakt": 69197,
+        "slug": "the-raid-2012",
+        "imdb": "tt1899353",
+        "tmdb": 94329
+      }
+    }
+  },
+  {
+    "rated_at": "2023-07-25T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022,
+      "ids": {
+        "trakt": 197298,
+        "slug": "puss-in-boots-the-last-wish-2022",
+        "imdb": "tt3915174",
+        "tmdb": 315162
+      }
+    }
+  },
+  {
+    "rated_at": "2023-07-02T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "The Incredibles",
+      "year": 2004,
+      "ids": {
+        "trakt": 5065,
+        "slug": "the-incredibles-2004",
+        "imdb": "tt0317705",
+        "tmdb": 9806
+      }
+    }
+  },
+  {
+    "rated_at": "2023-07-02T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Incredibles 2",
+      "year": 2018,
+      "ids": {
+        "trakt": 159626,
+        "slug": "incredibles-2-2018",
+        "imdb": "tt3606756",
+        "tmdb": 260513
+      }
+    }
+  },
+  {
+    "rated_at": "2023-06-14T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Prey",
+      "year": 2022,
+      "ids": {
+        "trakt": 604722,
+        "slug": "prey-2022",
+        "imdb": "tt11866324",
+        "tmdb": 766507
+      }
+    }
+  },
+  {
+    "rated_at": "2023-06-11T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "year": 2019,
+      "ids": {
+        "trakt": 304278,
+        "slug": "john-wick-chapter-3-parabellum-2019",
+        "imdb": "tt6146586",
+        "tmdb": 458156
+      }
+    }
+  },
+  {
+    "rated_at": "2023-06-09T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "John Wick: Chapter 2",
+      "year": 2017,
+      "ids": {
+        "trakt": 205127,
+        "slug": "john-wick-chapter-2-2017",
+        "imdb": "tt4425200",
+        "tmdb": 324552
+      }
+    }
+  },
+  {
+    "rated_at": "2023-06-07T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "John Wick",
+      "year": 2014,
+      "ids": {
+        "trakt": 149640,
+        "slug": "john-wick-2014",
+        "imdb": "tt2911666",
+        "tmdb": 245891
+      }
+    }
+  },
+  {
+    "rated_at": "2023-05-22T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year": 2001,
+      "ids": {
+        "trakt": 545,
+        "slug": "harry-potter-and-the-philosopher-s-stone-2001",
+        "imdb": "tt0241527",
+        "tmdb": 671
+      }
+    }
+  },
+  {
+    "rated_at": "2023-05-20T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Moana",
+      "year": 2016,
+      "ids": {
+        "trakt": 175475,
+        "slug": "moana-2016",
+        "imdb": "tt3521164",
+        "tmdb": 277834
+      }
+    }
+  },
+  {
+    "rated_at": "2023-04-28T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "In the Heights",
+      "year": 2021,
+      "ids": {
+        "trakt": 315136,
+        "slug": "in-the-heights-2021",
+        "imdb": "tt1321510",
+        "tmdb": 467909
+      }
+    }
+  },
+  {
+    "rated_at": "2023-01-22T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "M3GAN",
+      "year": 2022,
+      "ids": {
+        "trakt": 388074,
+        "slug": "m3gan-2022",
+        "imdb": "tt8760708",
+        "tmdb": 536554
+      }
+    }
+  },
+  {
+    "rated_at": "2023-01-14T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Avatar: The Way of Water",
+      "year": 2022,
+      "ids": {
+        "trakt": 56580,
+        "slug": "avatar-the-way-of-water-2022",
+        "imdb": "tt1630029",
+        "tmdb": 76600
+      }
+    }
+  },
+  {
+    "rated_at": "2023-01-01T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Meet the Parents",
+      "year": 2000,
+      "ids": {
+        "trakt": 1052,
+        "slug": "meet-the-parents-2000",
+        "imdb": "tt0212338",
+        "tmdb": 1597
+      }
+    }
+  },
+  {
+    "rated_at": "2023-01-01T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Jujutsu Kaisen 0",
+      "year": 2021,
+      "ids": {
+        "trakt": 644629,
+        "slug": "jujutsu-kaisen-0-2021",
+        "imdb": "tt14331144",
+        "tmdb": 810693
+      }
+    }
+  },
+  {
+    "rated_at": "2022-12-25T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Sing",
+      "year": 2016,
+      "ids": {
+        "trakt": 216570,
+        "slug": "sing-2016",
+        "imdb": "tt3470600",
+        "tmdb": 335797
+      }
+    }
+  },
+  {
+    "rated_at": "2022-12-25T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Glass Onion: A Knives Out Mystery",
+      "year": 2022,
+      "ids": {
+        "trakt": 495668,
+        "slug": "glass-onion-a-knives-out-mystery-2022",
+        "imdb": "tt11564570",
+        "tmdb": 661374
+      }
+    }
+  },
+  {
+    "rated_at": "2022-11-28T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "The Goonies",
+      "year": 1985,
+      "ids": {
+        "trakt": 4633,
+        "slug": "the-goonies-1985",
+        "imdb": "tt0089218",
+        "tmdb": 9340
+      }
+    }
+  },
+  {
+    "rated_at": "2022-11-26T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "ids": {
+        "trakt": 299910,
+        "slug": "doctor-strange-in-the-multiverse-of-madness-2022",
+        "imdb": "tt9419884",
+        "tmdb": 453395
+      }
+    }
+  },
+  {
+    "rated_at": "2022-11-20T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Thor: Love and Thunder",
+      "year": 2022,
+      "ids": {
+        "trakt": 459282,
+        "slug": "thor-love-and-thunder-2022",
+        "imdb": "tt10648342",
+        "tmdb": 616037
+      }
+    }
+  },
+  {
+    "rated_at": "2022-11-13T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Men in Black 3",
+      "year": 2012,
+      "ids": {
+        "trakt": 27168,
+        "slug": "men-in-black-3-2012",
+        "imdb": "tt1409024",
+        "tmdb": 41154
+      }
+    }
+  },
+  {
+    "rated_at": "2022-11-12T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Men in Black",
+      "year": 1997,
+      "ids": {
+        "trakt": 485,
+        "slug": "men-in-black-1997",
+        "imdb": "tt0119654",
+        "tmdb": 607
+      }
+    }
+  },
+  {
+    "rated_at": "2022-11-12T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Men in Black II",
+      "year": 2002,
+      "ids": {
+        "trakt": 486,
+        "slug": "men-in-black-ii-2002",
+        "imdb": "tt0120912",
+        "tmdb": 608
+      }
+    }
+  },
+  {
+    "rated_at": "2022-11-11T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Hocus Pocus",
+      "year": 1993,
+      "ids": {
+        "trakt": 5631,
+        "slug": "hocus-pocus-1993",
+        "imdb": "tt0107120",
+        "tmdb": 10439
+      }
+    }
+  },
+  {
+    "rated_at": "2022-10-29T00:00:00.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "Wendell & Wild",
+      "year": 2022,
+      "ids": {
+        "trakt": 359393,
+        "slug": "wendell-wild-2022",
+        "imdb": "tt5181830",
+        "tmdb": 511817
+      }
+    }
+  },
+  {
+    "rated_at": "2022-10-10T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "A Jazzman's Blues",
+      "year": 2022,
+      "ids": {
+        "trakt": 738080,
+        "slug": "a-jazzman-s-blues-2022",
+        "imdb": "tt14307536",
+        "tmdb": 921643
+      }
+    }
+  },
+  {
+    "rated_at": "2022-08-31T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Meet the Fockers",
+      "year": 2004,
+      "ids": {
+        "trakt": 565,
+        "slug": "meet-the-fockers-2004",
+        "imdb": "tt0290002",
+        "tmdb": 693
+      }
+    }
+  },
+  {
+    "rated_at": "2022-08-21T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Look Both Ways",
+      "year": 2022,
+      "ids": {
+        "trakt": 639793,
+        "slug": "look-both-ways-2022",
+        "imdb": "tt14298328",
+        "tmdb": 805327
+      }
+    }
+  },
+  {
+    "rated_at": "2022-07-16T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "ids": {
+        "trakt": 396092,
+        "slug": "everything-everywhere-all-at-once-2022",
+        "imdb": "tt6710474",
+        "tmdb": 545611
+      }
+    }
+  },
+  {
+    "rated_at": "2022-07-14T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Kung Fu Panda 3",
+      "year": 2016,
+      "ids": {
+        "trakt": 93870,
+        "slug": "kung-fu-panda-3-2016",
+        "imdb": "tt2267968",
+        "tmdb": 140300
+      }
+    }
+  },
+  {
+    "rated_at": "2022-07-14T00:00:00.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "Nobody's Fool",
+      "year": 2018,
+      "ids": {
+        "trakt": 363036,
+        "slug": "nobody-s-fool-2018",
+        "imdb": "tt8097306",
+        "tmdb": 514619
+      }
+    }
+  },
+  {
+    "rated_at": "2022-07-14T00:00:00.000Z",
+    "rating": 4,
+    "type": "movie",
+    "movie": {
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "ids": {
+        "trakt": 379134,
+        "slug": "the-croods-a-new-age-2020",
+        "imdb": "tt2850386",
+        "tmdb": 529203
+      }
+    }
+  },
+  {
+    "rated_at": "2022-07-09T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Kung Fu Panda 2",
+      "year": 2011,
+      "ids": {
+        "trakt": 34439,
+        "slug": "kung-fu-panda-2-2011",
+        "imdb": "tt1302011",
+        "tmdb": 49444
+      }
+    }
+  },
+  {
+    "rated_at": "2022-07-09T00:00:00.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021,
+      "ids": {
+        "trakt": 416151,
+        "slug": "shang-chi-and-the-legend-of-the-ten-rings-2021",
+        "imdb": "tt9376612",
+        "tmdb": 566525
+      }
+    }
+  },
+  {
+    "rated_at": "2022-07-05T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Elvis",
+      "year": 2022,
+      "ids": {
+        "trakt": 458367,
+        "slug": "elvis-2022",
+        "imdb": "tt3704428",
+        "tmdb": 614934
+      }
+    }
+  },
+  {
+    "rated_at": "2022-07-03T00:00:00.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "Uncharted",
+      "year": 2022,
+      "ids": {
+        "trakt": 223139,
+        "slug": "uncharted-2022",
+        "imdb": "tt1464335",
+        "tmdb": 335787
+      }
+    }
+  },
+  {
+    "rated_at": "2022-07-03T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Sonic the Hedgehog",
+      "year": 2020,
+      "ids": {
+        "trakt": 301015,
+        "slug": "sonic-the-hedgehog-2020",
+        "imdb": "tt3794354",
+        "tmdb": 454626
+      }
+    }
+  },
+  {
+    "rated_at": "2022-07-03T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Eternals",
+      "year": 2021,
+      "ids": {
+        "trakt": 372798,
+        "slug": "eternals-2021",
+        "imdb": "tt9032400",
+        "tmdb": 524434
+      }
+    }
+  },
+  {
+    "rated_at": "2022-07-03T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Sonic the Hedgehog 2",
+      "year": 2022,
+      "ids": {
+        "trakt": 508640,
+        "slug": "sonic-the-hedgehog-2-2022",
+        "imdb": "tt12412888",
+        "tmdb": 675353
+      }
+    }
+  },
+  {
+    "rated_at": "2022-06-22T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Shrek",
+      "year": 2001,
+      "ids": {
+        "trakt": 651,
+        "slug": "shrek-2001",
+        "imdb": "tt0126029",
+        "tmdb": 808
+      }
+    }
+  },
+  {
+    "rated_at": "2022-06-22T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "The Batman",
+      "year": 2022,
+      "ids": {
+        "trakt": 259852,
+        "slug": "the-batman-2022",
+        "imdb": "tt1877830",
+        "tmdb": 414906
+      }
+    }
+  },
+  {
+    "rated_at": "2022-06-20T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Kung Fu Panda",
+      "year": 2008,
+      "ids": {
+        "trakt": 4783,
+        "slug": "kung-fu-panda-2008",
+        "imdb": "tt0441773",
+        "tmdb": 9502
+      }
+    }
+  },
+  {
+    "rated_at": "2022-05-24T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "The Notebook",
+      "year": 2004,
+      "ids": {
+        "trakt": 6173,
+        "slug": "the-notebook-2004",
+        "imdb": "tt0332280",
+        "tmdb": 11036
+      }
+    }
+  },
+  {
+    "rated_at": "2022-04-06T00:00:00.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "Camp Rock",
+      "year": 2008,
+      "ids": {
+        "trakt": 8086,
+        "slug": "camp-rock-2008",
+        "imdb": "tt1055366",
+        "tmdb": 13655
+      }
+    }
+  },
+  {
+    "rated_at": "2022-03-12T00:00:00.000Z",
+    "rating": 4,
+    "type": "movie",
+    "movie": {
+      "title": "Fat Albert",
+      "year": 2004,
+      "ids": {
+        "trakt": 9117,
+        "slug": "fat-albert-2004",
+        "imdb": "tt0396592",
+        "tmdb": 15045
+      }
+    }
+  },
+  {
+    "rated_at": "2022-01-17T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Hamilton",
+      "year": 2020,
+      "ids": {
+        "trakt": 407854,
+        "slug": "hamilton-2020",
+        "imdb": "tt8503618",
+        "tmdb": 556574
+      }
+    }
+  },
+  {
+    "rated_at": "2022-01-01T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Kong: Skull Island",
+      "year": 2017,
+      "ids": {
+        "trakt": 189952,
+        "slug": "kong-skull-island-2017",
+        "imdb": "tt3731562",
+        "tmdb": 293167
+      }
+    }
+  },
+  {
+    "rated_at": "2021-12-23T00:00:00.000Z",
+    "rating": 9,
+    "type": "movie",
+    "movie": {
+      "title": "The Prestige",
+      "year": 2006,
+      "ids": {
+        "trakt": 851,
+        "slug": "the-prestige-2006",
+        "imdb": "tt0482571",
+        "tmdb": 1124
+      }
+    }
+  },
+  {
+    "rated_at": "2021-12-19T00:00:00.000Z",
+    "rating": 9,
+    "type": "movie",
+    "movie": {
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "ids": {
+        "trakt": 191798,
+        "slug": "avengers-endgame-2019",
+        "imdb": "tt4154796",
+        "tmdb": 299534
+      }
+    }
+  },
+  {
+    "rated_at": "2021-12-18T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Spider-Man: Homecoming",
+      "year": 2017,
+      "ids": {
+        "trakt": 196213,
+        "slug": "spider-man-homecoming-2017",
+        "imdb": "tt2250912",
+        "tmdb": 315635
+      }
+    }
+  },
+  {
+    "rated_at": "2021-12-18T00:00:00.000Z",
+    "rating": 4,
+    "type": "movie",
+    "movie": {
+      "title": "Come Away",
+      "year": 2020,
+      "ids": {
+        "trakt": 375381,
+        "slug": "come-away-2020",
+        "imdb": "tt5714470",
+        "tmdb": 527400
+      }
+    }
+  },
+  {
+    "rated_at": "2021-12-18T00:00:00.000Z",
+    "rating": 9,
+    "type": "movie",
+    "movie": {
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "ids": {
+        "trakt": 474180,
+        "slug": "spider-man-no-way-home-2021",
+        "imdb": "tt10872600",
+        "tmdb": 634649
+      }
+    }
+  },
+  {
+    "rated_at": "2021-12-18T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Money Heist",
+      "year": 2017,
+      "ids": {
+        "trakt": 1155154,
+        "slug": "money-heist-2017",
+        "imdb": "tt6468322",
+        "tmdb": 1411972
+      }
+    }
+  },
+  {
+    "rated_at": "2021-12-18T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Marvel's Daredevil",
+      "year": 2015,
+      "ids": {
+        "trakt": 1217375,
+        "slug": "marvel-s-daredevil-2015",
+        "imdb": "tt3322312",
+        "tmdb": 1484788
+      }
+    }
+  },
+  {
+    "rated_at": "2021-12-14T00:00:00.000Z",
+    "rating": 3,
+    "type": "movie",
+    "movie": {
+      "title": "The Nun",
+      "year": 2018,
+      "ids": {
+        "trakt": 285153,
+        "slug": "the-nun-2018",
+        "imdb": "tt5814060",
+        "tmdb": 439079
+      }
+    }
+  },
+  {
+    "rated_at": "2021-12-05T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Blue Story",
+      "year": 2019,
+      "ids": {
+        "trakt": 463865,
+        "slug": "blue-story-2019",
+        "imdb": "tt9285882",
+        "tmdb": 621191
+      }
+    }
+  },
+  {
+    "rated_at": "2021-12-04T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Logan",
+      "year": 2017,
+      "ids": {
+        "trakt": 161972,
+        "slug": "logan-2017",
+        "imdb": "tt3315342",
+        "tmdb": 263115
+      }
+    }
+  },
+  {
+    "rated_at": "2021-09-12T00:00:00.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "Attack the Block",
+      "year": 2011,
+      "ids": {
+        "trakt": 42721,
+        "slug": "attack-the-block-2011",
+        "imdb": "tt1478964",
+        "tmdb": 59678
+      }
+    }
+  },
+  {
+    "rated_at": "2021-08-30T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "The Belko Experiment",
+      "year": 2016,
+      "ids": {
+        "trakt": 225990,
+        "slug": "the-belko-experiment-2016",
+        "imdb": "tt1082807",
+        "tmdb": 341006
+      }
+    }
+  },
+  {
+    "rated_at": "2021-08-22T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Us",
+      "year": 2019,
+      "ids": {
+        "trakt": 305845,
+        "slug": "us-2019",
+        "imdb": "tt6857112",
+        "tmdb": 458723
+      }
+    }
+  },
+  {
+    "rated_at": "2021-08-07T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Save the Last Dance",
+      "year": 2001,
+      "ids": {
+        "trakt": 5073,
+        "slug": "save-the-last-dance-2001",
+        "imdb": "tt0206275",
+        "tmdb": 9816
+      }
+    }
+  },
+  {
+    "rated_at": "2021-08-07T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "The Imitation Game",
+      "year": 2014,
+      "ids": {
+        "trakt": 127828,
+        "slug": "the-imitation-game-2014",
+        "imdb": "tt2084970",
+        "tmdb": 205596
+      }
+    }
+  },
+  {
+    "rated_at": "2021-08-06T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Pitch Perfect",
+      "year": 2012,
+      "ids": {
+        "trakt": 79928,
+        "slug": "pitch-perfect-2012",
+        "imdb": "tt1981677",
+        "tmdb": 114150
+      }
+    }
+  },
+  {
+    "rated_at": "2021-08-06T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Knives Out",
+      "year": 2019,
+      "ids": {
+        "trakt": 396788,
+        "slug": "knives-out-2019",
+        "imdb": "tt8946378",
+        "tmdb": 546554
+      }
+    }
+  },
+  {
+    "rated_at": "2021-08-04T00:00:00.000Z",
+    "rating": 9,
+    "type": "movie",
+    "movie": {
+      "title": "Prisoners",
+      "year": 2013,
+      "ids": {
+        "trakt": 96797,
+        "slug": "prisoners-2013",
+        "imdb": "tt1392214",
+        "tmdb": 146233
+      }
+    }
+  },
+  {
+    "rated_at": "2021-08-03T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "The Suicide Squad",
+      "year": 2021,
+      "ids": {
+        "trakt": 283364,
+        "slug": "the-suicide-squad-2021",
+        "imdb": "tt6334354",
+        "tmdb": 436969
+      }
+    }
+  },
+  {
+    "rated_at": "2021-08-02T00:00:00.000Z",
+    "rating": 9,
+    "type": "movie",
+    "movie": {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "ids": {
+        "trakt": 120,
+        "slug": "the-dark-knight-2008",
+        "imdb": "tt0468569",
+        "tmdb": 155
+      }
+    }
+  },
+  {
+    "rated_at": "2021-08-02T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "The Matrix",
+      "year": 1999,
+      "ids": {
+        "trakt": 481,
+        "slug": "the-matrix-1999",
+        "imdb": "tt0133093",
+        "tmdb": 603
+      }
+    }
+  },
+  {
+    "rated_at": "2021-08-02T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Parasite",
+      "year": 2019,
+      "ids": {
+        "trakt": 343180,
+        "slug": "parasite-2019",
+        "imdb": "tt6751668",
+        "tmdb": 496243
+      }
+    }
+  },
+  {
+    "rated_at": "2021-07-28T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "The Spiderwick Chronicles",
+      "year": 2008,
+      "ids": {
+        "trakt": 4072,
+        "slug": "the-spiderwick-chronicles-2008",
+        "imdb": "tt0416236",
+        "tmdb": 8204
+      }
+    }
+  },
+  {
+    "rated_at": "2021-07-28T00:00:00.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "What Men Want",
+      "year": 2019,
+      "ids": {
+        "trakt": 334304,
+        "slug": "what-men-want-2019",
+        "imdb": "tt7634968",
+        "tmdb": 487297
+      }
+    }
+  },
+  {
+    "rated_at": "2021-07-25T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Now You See Me",
+      "year": 2013,
+      "ids": {
+        "trakt": 55786,
+        "slug": "now-you-see-me-2013",
+        "imdb": "tt1670345",
+        "tmdb": 75656
+      }
+    }
+  },
+  {
+    "rated_at": "2021-07-25T00:00:00.000Z",
+    "rating": 4,
+    "type": "movie",
+    "movie": {
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019,
+      "ids": {
+        "trakt": 313464,
+        "slug": "once-upon-a-time-in-hollywood-2019",
+        "imdb": "tt7131622",
+        "tmdb": 466272
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-18T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Monsters University",
+      "year": 2013,
+      "ids": {
+        "trakt": 44679,
+        "slug": "monsters-university-2013",
+        "imdb": "tt1453405",
+        "tmdb": 62211
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-11T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Monsters, Inc.",
+      "year": 2001,
+      "ids": {
+        "trakt": 464,
+        "slug": "monsters-inc-2001",
+        "imdb": "tt0198781",
+        "tmdb": 585
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-11T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Ralph Breaks the Internet",
+      "year": 2018,
+      "ids": {
+        "trakt": 249372,
+        "slug": "ralph-breaks-the-internet-2018",
+        "imdb": "tt5848272",
+        "tmdb": 404368
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-10T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Flushed Away",
+      "year": 2006,
+      "ids": {
+        "trakt": 6695,
+        "slug": "flushed-away-2006",
+        "imdb": "tt0424095",
+        "tmdb": 11619
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-08T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Shark Tale",
+      "year": 2004,
+      "ids": {
+        "trakt": 5732,
+        "slug": "shark-tale-2004",
+        "imdb": "tt0307453",
+        "tmdb": 10555
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-08T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Wreck-It Ralph",
+      "year": 2012,
+      "ids": {
+        "trakt": 61864,
+        "slug": "wreck-it-ralph-2012",
+        "imdb": "tt1772341",
+        "tmdb": 82690
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-08T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Pitch Perfect 2",
+      "year": 2015,
+      "ids": {
+        "trakt": 154861,
+        "slug": "pitch-perfect-2-2015",
+        "imdb": "tt2848292",
+        "tmdb": 254470
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-08T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Spider-Man: Far From Home",
+      "year": 2019,
+      "ids": {
+        "trakt": 273537,
+        "slug": "spider-man-far-from-home-2019",
+        "imdb": "tt6320628",
+        "tmdb": 429617
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-03T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Open Season",
+      "year": 2006,
+      "ids": {
+        "trakt": 3924,
+        "slug": "open-season-2006",
+        "imdb": "tt0400717",
+        "tmdb": 7484
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-01T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "Shrek 2",
+      "year": 2004,
+      "ids": {
+        "trakt": 652,
+        "slug": "shrek-2-2004",
+        "imdb": "tt0298148",
+        "tmdb": 809
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-01T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Shrek the Third",
+      "year": 2007,
+      "ids": {
+        "trakt": 653,
+        "slug": "shrek-the-third-2007",
+        "imdb": "tt0413267",
+        "tmdb": 810
+      }
+    }
+  },
+  {
+    "rated_at": "2021-06-01T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "ids": {
+        "trakt": 5406,
+        "slug": "shrek-forever-after-2010",
+        "imdb": "tt0892791",
+        "tmdb": 10192
+      }
+    }
+  },
+  {
+    "rated_at": "2021-05-08T00:00:00.000Z",
+    "rating": 9,
+    "type": "movie",
+    "movie": {
+      "title": "The Boondocks",
+      "year": null,
+      "ids": {
+        "trakt": 532230,
+        "slug": "the-boondocks",
+        "imdb": "tt0373732",
+        "tmdb": 687836
+      }
+    }
+  },
+  {
+    "rated_at": "2021-04-10T00:00:00.000Z",
+    "rating": 6,
+    "type": "movie",
+    "movie": {
+      "title": "Focus",
+      "year": 2015,
+      "ids": {
+        "trakt": 156518,
+        "slug": "focus-2015",
+        "imdb": "tt2381941",
+        "tmdb": 256591
+      }
+    }
+  },
+  {
+    "rated_at": "2021-04-09T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "The Truman Show",
+      "year": 1998,
+      "ids": {
+        "trakt": 23734,
+        "slug": "the-truman-show-1998",
+        "imdb": "tt0120382",
+        "tmdb": 37165
+      }
+    }
+  },
+  {
+    "rated_at": "2021-04-05T00:00:00.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "The Weekend",
+      "year": 2016,
+      "ids": {
+        "trakt": 272745,
+        "slug": "the-weekend-2016",
+        "imdb": "tt5521250",
+        "tmdb": 428634
+      }
+    }
+  },
+  {
+    "rated_at": "2021-04-04T00:00:00.000Z",
+    "rating": 7,
+    "type": "movie",
+    "movie": {
+      "title": "The Karate Kid",
+      "year": 1984,
+      "ids": {
+        "trakt": 1261,
+        "slug": "the-karate-kid-1984",
+        "imdb": "tt0087538",
+        "tmdb": 1885
+      }
+    }
+  },
+  {
+    "rated_at": "2021-04-04T00:00:00.000Z",
+    "rating": 8,
+    "type": "movie",
+    "movie": {
+      "title": "Django Unchained",
+      "year": 2012,
+      "ids": {
+        "trakt": 50131,
+        "slug": "django-unchained-2012",
+        "imdb": "tt1853728",
+        "tmdb": 68718
+      }
+    }
+  },
+  {
+    "rated_at": "2021-04-04T00:00:00.000Z",
+    "rating": 5,
+    "type": "movie",
+    "movie": {
+      "title": "Someone Great",
+      "year": 2019,
+      "ids": {
+        "trakt": 363711,
+        "slug": "someone-great-2019",
+        "imdb": "tt8075260",
+        "tmdb": 515248
+      }
+    }
+  }
+]
