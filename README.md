@@ -28,6 +28,9 @@ People & Countries
 **Skills Practised**
 
 ### How to run
+Install dependencies:
+```bash
+uv sync
 
 **Repo Structure**
 
