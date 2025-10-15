@@ -31,6 +31,7 @@ People & Countries
 Install dependencies:
 ```bash
 uv sync
+uv run jupyter lab
 
 **Repo Structure**
 
